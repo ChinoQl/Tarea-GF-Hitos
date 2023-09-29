@@ -1,0 +1,194 @@
+# **Plantilla Proyecto**
+
+Author: Sebastián Cea
+
+Alumno: Juan Felipe Ayala Obando
+
+## **Descripción Activo y Contexto (Hito 1)**
+
+#### Fecha de entrega: Jueves 28 de Septiembre 23:59.
+
+## **Definición y Descripción**
+
+Definir y describir activo a estudiar, acompañar con datos (tributa a indicador de Contexto) y con referencias científicas realizando una investigación relacionada a artículos ubicados en la base de datos de Web of Science, con una calificación Q1-Q2 y referenciada varias veces (Esto se verá en el tutorial de la semana 5).
+
+La industria bancaria es un componente básico de la industria financiera que juega un papel crucial en la economía global y local de cada país, debido a su responsabilidad de dirigir los recursos financieros de los ahorradores hacia los proveedores de servicios. 
+
+Banco de Chile, será el activo a evaluar, este es una institución financiera se enfoca principalmente en la intermediación financiera y la gestión de activos. Los bancos pueden diferenciarse dependiendo del tipo de operaciones que estos realizan, para el informe se enfocará respecto a los activos/variables seleccionados, como, por ejemplo, los bancos comerciales y bancos de inversión, estas pueden variar en tamaño, alcance y enfoque, desde bancos comerciales y bancos de inversión hasta cooperativas de crédito y bancos de desarrollo.
+
+Los bancos para  garantizar la estabilidad financiera, la protección de los depositantes y la integridad general del sistema financiero, la industria bancaria está fuertemente regulada en la mayoría de los países para evitar varias cantidades de ilegalidades.
+
+Respecto a las referencias de artículos científicos que caracterizan el sector se eligieron 3 papers que tenían mayor relevancia en entender lo fundamental que es un banco y de acciones y problemas que el concepto como tal al momento que llegasen a ocurrir errores.
+
+## **Motivación**
+
+Establecer la relevancia o potencial interés específico del activo que justifique el porque realizar la investigación a este activo y no a otros. Argumentar haciendo referencia a datos o noticias actuales que motivan el estudio de este activo.
+
+Elegí el concepto de banca en lugar de energía y bienes raíces, debido a que tengo un gran interés y afinidad por él. Mi primera experiencia práctica en el sector financiero, específicamente en el Banco de Chile, me brindó conocimientos invaluables sobre temas esenciales que serán cruciales para mi futuro, como la toma de decisiones sobre inversiones y préstamos. Esta experiencia me ayudó a darme cuenta de lo importante que es comprender cómo operan los bancos y cómo pueden afectar la vida financiera de las personas y las empresas. Por tanto, mi decisión se basa en mi interés por las finanzas y mi convicción de que este conocimiento sería fundamental en mi trayectoria profesional ya sea de mi carrera o interacción con el banco.
+
+Elaboración propia, video practica
+
+Aparte siendo esta una industria que sigue a la alza a medida que ocurre el paso del tiempo, pudiendo demostrar a través de estadística como en las noticias donde superó a los otro bancos en muchos aspectos tras 10 años consecutivos como el mejor banco y una de las mejores empresas del país para atraer y retener talentos en Chile.
+
+## **Contexto**
+
+Ingesta datos del activo y provee un análisis de estadística descriptiva simple junto con el análisis de una variable económica de contexto. Ejemplo: Si el activo es una minera, la variable puede ser el precio del metal. Acompañar este análisis con gráficos, riesgos, horizonte de inversión, rentabilidad del activo, entre otros.
+
+Respecto a las variables/activos, se eligieron basados en que  pueden poseer la función principal de base y pilar de los bancos, debido que son los más importantes al investigar los análisis financiero de un banco, ya que proporcionan información sobre su actividad, su liquidez y su solvencia.
+
+1.  **Tarjeta de crédito y débito :** Es una de las principales actividades de un banco comercial porque representa el dinero que los clientes han recibido del mismo. La expansión de la actividad económica y la confianza de los clientes en el banco se reflejan en el crecimiento de la cartera de tarjetas de crédito.
+
+Tabla 1: Gráfico uso de tarjetas\
+Fuente: "INFORME DE SISTEMAS DE PAGO JULIO 2022"
+
+2.  **Los depósitos de clientes:** Son los fondos que los clientes mantienen depositados en el banco, ya sean a corto o largo plazo, son una señal de la confianza de los clientes en el banco es el crecimiento de sus depósitos y la cantidad de flujo que estos clientes puedan llegar a mover al confiar en una industria para manejar su dinero y generar una rentabilidad respecto a lo deseado.
+
+Según comenta el Banco Central, estos tipos de depósitos por parte de los clientes han crecido un 20,1% en lo que va del año debido al sistema de rentabilidad y seguridad que estos poseen, alcanzando hasta el momento US\$20.267 millones. Como se mencionó antes, la principal ventaja es que puedes anticipar el nivel de retorno que recibirás desde el primer momento al cotizar con el ejecutivo de inversiones para una inversión dependiendo del riesgo que uno esté dispuesto a correr, por ejemplo, a corto plazo ofrece una forma muy segura de ahorrar dinero y el capital está garantizado independientemente de la volatilidad del mercado.
+
+3.  **Capitales propios:** Estos son los fondos que los inversores han aportado al banco para que pueda funcionar como alguna forma de comprar aparte de la empresa por ejemplo a través de acciones comunes o preferentes. Los capitales propios de la empresa también son un indicador de la estabilidad financiera del banco y su capacidad para soportar pérdidas que indican el patrimonio neto del banco.Un nivel adecuado de patrimonio neto proporciona al banco una red de seguridad en caso de pérdidas. En el caso del Banco de Chile, el aumento del patrimonio neto indica que el banco está bien posicionado para enfrentar los desafíos que enfrenta la industria bancaria. Una forma de poder ver estos es a través de yahoo finance, donde podemos ver el valor de capitalización de Chile.SN
+
+Tabla 1: Datos capitalización de mercado (intradía)\
+Fuente: Yahoo Finance
+
+El desempeño de una empresa como el Banco de Chile, que opera en el sector financiero, está influenciado por una serie de factores económicos contextuales que pueden tener un impacto en su rentabilidad y operaciones. Algunos de los factores que podrían tener un impacto en el banco se podrían mencionar; tasa de interés, ciclo económico, inflación, política y economía, tipo de cambio, regulación financiera y condiciones internacionales.
+
+### **Análisis de Largo Plazo**
+
+#### **Caracterización deuda**
+
+Describir el activo especificando en que realiza sus inversiones (por tipo de instrumento). Especificar sus acciones comunes, preferentes y bonos relacionados aplicando lo aprendido en el capítulo respectivo.
+
+1.  **Tarjeta de crédito:**
+
+La cuenta de tarjetas de crédito del Banco de Chile representa la actividad principal del banco porque contiene el dinero que ha sido desembolsado a sus clientes. La línea de crédito del banco se compone de los siguientes tipos de instrumentos:
+
+**Préstamos comerciales:** estos préstamos se otorgan a empresas para financiar sus actividades comerciales.
+
+**Préstamos de prepago:** estos préstamos se otorgan a personas para cubrir sus propios gastos.
+
+**Préstamos hipotecarios:** Estos préstamos se otorgan a personas para ayudarles a pagar la compra de una vivienda.
+
+**Préstamos previos a la construcción:** estos préstamos se otorgan a empresas para ayudarlas a financiar la construcción de proyectos inmobiliarios residenciales.
+
+2.  **Depósito de los clientes**
+
+Dado que representan el dinero que los clientes han depositado en el banco, los depósitos de los clientes constituyen el objetivo principal del Banco de Chile. Los depósitos de clientes del banco se componen de los siguientes tipos de activos:
+
+**Depósitos a la vista:** Estos depósitos son aquellos que se pueden retirar en cualquier momento sin incurrir en penalizaciones.
+
+**Depósitos con plazo:** Estos depósitos tienen un plazo de pago establecido y no pueden reembolsar antes de dicho plazo sin incurrir en penalizaciones.
+
+**Depósitos en moneda extranjera:** Estos depósitos se realizan en monedas extranjeras como el dólar estadounidense o el euro.
+
+3.  **Capitales propios**
+
+Los capitales propios indican el patrimonio neto del banco, o los fondos que los inversionistas han aportado a la institución para respaldar sus operaciones. El capital propio del banco se compone de los siguientes tipos de instrumentos:
+
+**Capital social:** Es el dinero que aportaron los inversores del banco en el momento de su fundación.
+
+**Reservas:** Son los activos que el banco ha retenido y no han sido distribuidos a los inversores.
+
+**Acciones Comunes y preferentes**
+
+Las acciones comunes del Banco de Chile son títulos de propiedad que otorgan a sus tenedores el derecho de participar en las operaciones del banco y emitir votos en las asambleas accionarias. Estos en su forma más resumida nos otorgan el derecho a participar en las operaciones bancarias y emitir votos en las asambleas de accionistas. En cambio, las acciones preferentes del Banco de Chile son títulos de propiedad que otorgan a sus tenedores el derecho a participar en las operaciones del banco luego de que las acciones comunes hayan recibido sus dividendos así como la preferencia para controlar las acciones comunes en caso de liquidación del banco y dividendo fijo independientemente de las operaciones del banco.
+
+Con respecto a los valores de cada una de estas al precio de hoy, se encuentran a un valor de 11.840 CLP los acciones comunes y 9000 CLP las preferentes (**28 septiembre**), la razón de la inferencia de precios se basa en que las acciones preferentes ofrecen una mayor potencial de crecimiento a diferencia de las preferentes, ya que permite participar en las utilidades del banco.
+
+**Bono principal**
+
+Los bonos más importantes del banco son los bonos senior. Estos bonos están respaldados por los accionistas del banco, por lo que en caso de liquidación del banco, los inversores tendrían la máxima prioridad, dando así a los tenedores una  inversión segura con un rendimiento moderado, los bonos sénior del Banco de Chile ofrecen una alta probabilidad de reembolso del capital y los intereses.
+
+**Otros bonos**
+
+El Banco de Chile también emite otros tipos de bonos, como bonos verdes, bonos sociales y bonos sustentables. Estos incentivos tienen como objetivo apoyar iniciativas que beneficien a la sociedad, el medio ambiente o la economía, pero no son los más usados debido que como se mencionó antes, los seniors producen un efecto de seguridad y rendimiento moderado.
+
+#### **Caracterización de emisiones históricas**
+
+Describir el proceso de emisión de acciones paso a paso del activo seleccionado, caracterizando el tipo de colocación que utilizaron en contraste con el procedimiento básico realizado en el capítulo respectivo.
+
+Al inicio del periodo de oferta preferente ordinario se subastó el 100% de las 1.398.023.524 acciones. También así mismo, entre el 31 de marzo y 29 de abril, se ofrecieron a los accionistas del banco y accionistas de SM-ChileS-A 814.535.235 acciones de las cuales se colaron 94%. Con esto se llega a concluir que estas acciones que se ofrecieron a los accionistas del banco pueden llegar a ser ofertas directas de derechos de suscripción.
+
+Busca también sostener un importante incremento en su volumen de negocio durante los próximos tres años enfocando su estrategia en aquellos segmentos de negocio rentables, por ejemplo con más colocaciones, siendo estas las conferencias previas a suscripción, presentación y aprobación de registros.
+
+Respecto a el banco, posee activos por US\$39 mil millones, colocaciones por US\$31 mil millones, depósitos por US\$26 mil millones, 1.6 millones de clientes y una clasificación de riesgo internacional de "A+" otorgada por S&P
+
+**Relación con activos derivados**
+
+Describe un activo derivado relacionado, mostrando datos de su evolución. También mencionar porque es importante este derivado para el activo en cuestión. Aplicar procedimiento de valoración de un derivado por inclusión en estructura de retornos (a profundizar en tutorial de la unidad de Derivados).
+
+Respecto al banco de chile, en su página principal , posee una sección donde se puede ver sus deudas, de las cuales destacan las siguientes y los bonos mencionados anteriormente:
+
+**Acciones fuera de Chile:** El Banco de Chile se convirtió en el primer banco chileno en ingresar al mercado estadounidense en 2002, cuando comenzó a cotizar en la Bolsa de Nueva York en el programa de Depositary Receipts (ADR).
+
+La apertura de la Bolsa de Valores de Nueva York fue un avance significativo para el Banco ya que le dio acceso a un mercado financiero más grande y líquido. Además, aumentó su visibilidad internacional y les ayudó a atraer nuevos inversores.
+
+**Acciones nominativas:** Las acciones normativas se establecieron en 2002 cuando el Banco de Chile abrió una cuenta en la Bolsa de Nueva York. Las limitaciones de estas transacciones tienen como objetivo proteger a los accionistas minoritarios del banco de la influencia de sus accionistas principales. Estos se emiten a nombre de un titular y llevan la lista de inversores.
+
+### **Reporte grupal**
+
+Para poder asignar el porcentaje que se le dará a los activos en el portafolio es necesario tener en consideración algunos factores, a modo de entender y desarrollar un análisis claro.
+
+Los tres activos del portafolio se encuentran definidos y con sus respectivos datos en la siguiente tabla:
+
+|                       |                                    |          |                  |
+|-----------------|----------------------|-----------------|-----------------|
+|                       | **Market cap (millones de pesos)** | **Beta** | **Ratio Sharpe** |
+| **Enel Chile**        | \$        4.070                    | 0,72     | -0.0751          |
+| **Banco de Chile**    | \$      10.269                     | 0,14     | -0.0419          |
+| **Cencosud shopping** | \$ 2.286.000                       | 0,64     | -0.0497          |
+
+Tabla 1: Datos generales de los activos\
+Fuente: elaboración propia
+
+**Análisis Activos**
+
+Primero que todo, vemos una capitalización de mercado en la que Cencosud Shopping lidera por mucho. En términos de Beta, los tres activos son relativamente seguros, el Banco de Chile es el que tiene el beta más bajo, entendible considerando las regulaciones y la manera en la que opera un banco. Por último observamos que los tres activos tienen un ratio sharpe negativo de los últimos tres meses lo que indica que su rendimiento es menor al de la rentabilidad sin riesgo.
+
+Debido a que Enel tiene el Beta más alto, el Ratio Sharpe más negativo y la menor capitalización de mercado, se le va a otorgar el menor % en la asignación.
+
+Como el Banco de Chile tiene un Beta muy bajo y similar Ratio Sharpe a Cencosud Shopping, estableceremos en ambos el mismo % en la asignación, el objetivo de esta decisión es mantener al Banco de Chile como la inversión más segura, que estabilice el riesgo del portafolio.
+
+Desde la perspectiva del riesgo en tiempos como estos con guerras en Europa y la incertidumbre global, se cree que los activos más ligados a la energía sean más riesgosos debido a la fluctuación en activos como el petróleo o incluso con restricciones en torno al medio ambiente en el mundo y Chile. Sumado a esto  los bancos en periodos de estancamiento como lo está chile, suelen tener un riesgo un poco más alto en comparación con las acciones inmobiliarias que suelen no tener fluctuaciones muy altas debido a la constante alza de la tasa de ocupación como sucede en CENCOSUD SHOPPING.
+
+En el último trimestre en comparación a los mismos meses anteriores del año pasado CENCOSUD SHOPPING aumentó sus utilidades en un 99,6% gracias al incremento de la tasa de ocupación lo que significó que tuviera una rentabilidad anual de su acción "CENCOSHOPP" de 35% por lo que se le va a dar un peso más grande en el portafolio.
+
+**Asignación Portafolio**
+
+|                       |                  |
+|-----------------------|------------------|
+|                       | **% asignación** |
+| **Enel**              | **20%**          |
+| **Banco de Chile**    | **40%**          |
+| **Cencosud Shopping** | **40%**          |
+|                       | **100%**         |
+
+Tabla 2: Asignación Portafolio\
+Fuente: elaboración propia
+
+**Referencias**
+
+Gallego, A. (2013). Tidal modulation of continuous nonvolcanic seismic tremor in the Chile triple junction region. Geochemistry, Geophysics, Geosystems, 14(4), 851-863.<https://doi.org/10.1002/ggge.20091>
+
+Li, J., Feng, J., Sun, X., & Li, M. (2012). Risk Integration Mechanisms and Approaches in Banking Industry. International Journal of Information Technology & Decision Making, 11(06), 1183-1213.<https://www.worldscientific.com/doi/abs/10.1142/S0219622012500320>
+
+Havrylchyk, O. (2006). Efficiency of the Polish banking industry: Foreign versus domestic banks. Journal of Banking & Finance, 30(7), 1975-1996.<https://doi.org/10.1016/j.jbankfin.2005.07.009>
+
+<https://portales.bancochile.cl/uploads/000/045/680/42b47795-da00-472d-93c7-323ce640b28f/original/Memoria_BCH_2022_interactiva-Optimizada.pdf>
+
+<https://www.cmfchile.cl/educa/621/w3-article-27422.html>
+
+<https://portales.bancochile.cl/uploads/000/037/507/205048c2-b93d-4d5a-9295-2992689c63fb/original/Comentario_de_la_Gerencia_2T22.pdf>
+
+<https://www.bcentral.cl/web/banco-central/areas/politica-monetaria>
+
+<https://www.df.cl/mercados/mercados-en-accion/banco-de-chile-anuncio-exitosa-colocacion-del-94-de-acciones>
+
+<https://www.bcentral.cl/documents/33528/3652920/Informe_de_sistema_de_pago_julio_2022.pdf/037fea7f-ce7f-1257-0025-62d71871a4b6>
+
+<https://dfmas.df.cl/las-claves-para-entender-el-boom-de-los-depositos-a-plazo>
+
+<https://dfmas.df.cl/las-claves-para-entender-el-boom-de-los-depositos-a-plazo>
+
+<https://portales.bancochile.cl/nuestrobanco/es/investor-relations/inversionistas/bonos>
+
+<https://portales.bancochile.cl/nuestrobanco/novedades/reconocimientos/detalles/banco-de-chile-reconocido-como-mejor-banco-mejores-empresas-para-atraer-y-retener-talentos-chile>
